@@ -2,7 +2,7 @@ DMS Custom Site Options
 -------------------- 
 --must use ACF PRO--
 --------------------
-This plugin creates a site settings panel in your WordPress admin with 2 tabs, Contact Info & Enqueue Scripts. I built this plugin for use on a multisite network running Oxygen.
+This plugin creates a site settings panel in your WordPress admin with 2 tabs, Contact Info & Enqueue Scripts. I built this plugin for use on a multisite network running Oxygen (but you could use any builder).
 The contact tab has contact info for the website name, address, phone, email, & social media links.
 The enqueue functions include an extra checkbox for front page only.
 
