@@ -1,0 +1,74 @@
+[
+    {
+        "key": "group_5d5ddddda9311",
+        "title": "Site Settings",
+        "fields": [
+            {
+                "key": "field_5d5e22e66ad8a",
+                "label": "Contact Info",
+                "name": "contact_info",
+                "type": "repeater",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "acfe_permissions": "",
+                "collapsed": "",
+                "min": 0,
+                "max": 0,
+                "layout": "table",
+                "button_label": "",
+                "sub_fields": [
+                    {
+                        "key": "field_5d5e239a21827",
+                        "label": "Info",
+                        "name": "info",
+                        "type": "text",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "acfe_permissions": "",
+                        "default_value": "",
+                        "placeholder": "",
+                        "prepend": "",
+                        "append": "",
+                        "maxlength": "",
+                        "acfe_validate": "",
+                        "acfe_update": ""
+                    }
+                ]
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "options_page",
+                    "operator": "==",
+                    "value": "race_details"
+                }
+            ]
+        ],
+        "menu_order": 0,
+        "position": "normal",
+        "style": "default",
+        "label_placement": "top",
+        "instruction_placement": "label",
+        "hide_on_screen": "",
+        "active": true,
+        "description": "",
+        "acfe_display_title": "",
+        "acfe_autosync": "",
+        "acfe_permissions": "",
+        "acfe_note": "",
+        "acfe_meta": ""
+    }
+]
